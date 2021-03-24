@@ -24,9 +24,13 @@ This are the things I've been lately working on:
 <ul>
     <li><a href="https://github.com/Noramartiin/SAVE-THE-HOBBITS"> Save The Hobbits</a><br/>This is the first game I created with HTML, CSS and JavaScript</li>
     <li><a href="https://github.com/Noramartiin/globalngo"> Global NGO</a><br/>This app was created with NodeJs and Express.</li>
-    <li>Bon Appeteat</li>
+    <li>Bon Appeteat:<br/>
+    <ul>
+    <li><a href="https://github.com/Noramartiin/bonappeteat-client">Client Side</a><br/></li>
+    <li><a href="https://github.com/Noramartiin/bonappeteat-server">Server Side</a></li>
+    </ul>
+    </li>
 </ul>
-
 <hr>
 
 ### Connect with me:
