@@ -3,18 +3,19 @@
 
 I'm a Fullstack Web Developer, Communication Specialist and Events Director from Bilbao, Spain, who's currently working in strengthening my skills and learning new ones to create amazing projects.
 
+**My quote is:** *'If you really want it, the time to do it is NOW'*
+
 As a developer, I love creating new things from the scratch. The process of thinking the ideas, the establishment of the goals that we want to achieve with each project and the discovery of the techniques that we are going to apply. After that of course comes the funniest part, start with the code. In this repositories you can see that I've worked with **HTML, CSS, JavaScript, NodeJs, React and different Apis, among others**.
 
 <br/>
 
 **See my Portfolio in :** <a href='http://www.noramartin.es/'>   www.noramartin.es  </a>
 
-<img alt="nora-martin" width="300px" src="https://res.cloudinary.com/dja8ksmf0/image/upload/v1620117865/Nmdemo-vista_nbuufl.png">
+<img alt="nora-martin" width="200px" src="https://res.cloudinary.com/dja8ksmf0/image/upload/v1620117865/Nmdemo-vista_nbuufl.png">
 
 <br/>
-<br/>
 
-**My quote is:** *'If you really want it, the time to do it is NOW'*
+
 
 When I'm not developing, you can find me with my dogs, watching things on Youtube, exploring the deep worlds of Spotify to discover new songs or debating about the communication strategies that the influencers and politicians apply.
 
