@@ -12,7 +12,7 @@ As a developer, I love creating new things from the scratch. The process of thin
  <a href='http://www.noramartin.es/'><img alt="nora-martin" width="200px" src="https://res.cloudinary.com/dja8ksmf0/image/upload/v1620117865/Nmdemo-vista_nbuufl.png"></a>
 
 
-When I'm not developing, you can find me with my dogs, watching things on Youtube, exploring the deep worlds of Spotify to discover new songs or debating about the communication strategies that the influencers and politicians apply.
+When I'm not developing, you can find me with my dogs or exploring the deep worlds of Spotify to discover new songs.
 
 
 <hr>
